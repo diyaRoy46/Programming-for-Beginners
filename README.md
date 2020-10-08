@@ -599,6 +599,8 @@ print(eval(calculate))
 ```
 <span class="c6 c4">Last chapter we had done addition. Now let’s try some other operations.</span>
 
+# <span class="c6 c22">Arihtmetic operations</span>
+
 <span class="c6 c4"></span>
 
 ## <span class="c6 c13">Subtraction -</span>
@@ -640,6 +642,49 @@ where `operand_1` and `operand_2` are numbers and the result is the product of `
 <span class="c6 c4">This is a special operator found in programming languages that divides two numbers and returns the remainder.</span>
 
 <span class="c6 c4"></span>
+
+# <span class="c6 c22">Comparison Operations</span>
+<span class="c6 c4"></span>
+
+## <span class="c6 c13">Equal to ==</span>
+<span class="c6 c4">If the values of two operands are equal, then the condition becomes true.
+
+`a`==`b`
+</span>
+
+## <span class="c6 c13"> Not equal to !=</span>
+<span class="c6 c4">If values of two operands are not equal, then condition becomes true.
+
+`a`!=`b`
+</span>
+
+## <span class="c6 c13">Greater than ></span>
+<span class="c6 c4">If the value of left operand is greater than the value of right operand, then condition becomes true.
+
+`a`>`b`
+</span>
+
+## <span class="c6 c13">Less than <</span>
+<span class="c6 c4">If the value of left operand is less than the value of right operand, then condition becomes true.
+
+`a`<`b`
+</span>
+
+## <span class="c6 c13">Greater than or equal to >=</span>
+<span class="c6 c4">If the value of left operand is greater than or equal to the value of right operand, then condition becomes true.
+
+`a`<=`b`
+</span>
+
+## <span class="c6 c13">Less than or equal to <=</span>
+<span class="c6 c4">If the value of left operand is less than or equal to the value of right operand, then condition becomes true.
+
+`a`>=`b`
+</span>
+
+<span class="c6 c4"></span>
+<span class="c6 c4">This operators are mainly used for condition checking...</span>
+
 
 <span class="c6 c4">Let’s test what we have learned</span>
 
@@ -703,7 +748,7 @@ where `operand_1` and `operand_2` are numbers and the result is the product of `
 
 <span class="c6 c4"></span>
 
-# <span class="c6 c22">Types In Python</span>
+# <span class="c6 c22">Datatypes In Python</span>
 
 <span class="c6 c4">Every programming language has data types.</span>
 
